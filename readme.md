@@ -1,3 +1,12 @@
+
+![alt text](https://github.com/janak11111/Sentence-Emotion-Analyzer-WebApp/blob/main/improved_promp2.jpg)
+
+
+![alt text](https://github.com/janak11111/Sentence-Emotion-Analyzer-WebApp/blob/main/improved_emo2.jpg)
+
+**---------------------------------------------------------------------------------------------------------------------------------**
+
+
 **Files Information** 
 
 
@@ -34,10 +43,3 @@ saved model link - https://drive.google.com/drive/folders/1-1k-OvgqiJ6_pGNlWFdKd
 
 5) user can try again with differnt input for detecting emotion.
 
-**---------------------------------------------------------------------------------------------------------------------------------**
-
-
-![alt text](https://github.com/janak11111/Sentence-Emotion-Analyzer-WebApp/blob/main/improved_promp2.jpg)
-
-
-![alt text](https://github.com/janak11111/Sentence-Emotion-Analyzer-WebApp/blob/main/improved_emo2.jpg)
