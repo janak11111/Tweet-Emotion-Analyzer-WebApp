@@ -20,7 +20,7 @@ report.pdf - its file containing project report
 saved model link - https://drive.google.com/drive/folders/1-1k-OvgqiJ6_pGNlWFdKdemFdzHDF_6T?usp=share_link
 
 
----------------------------------------------------------------------------------------------------------------------------------
+**---------------------------------------------------------------------------------------------------------------------------------**
 
 **Steps to run the project**
 
@@ -33,3 +33,11 @@ saved model link - https://drive.google.com/drive/folders/1-1k-OvgqiJ6_pGNlWFdKd
 4) model gives prediction of emotion on new page where we can see orignal tweet with its predicted emotion.
 
 5) user can try again with differnt input for detecting emotion.
+
+**---------------------------------------------------------------------------------------------------------------------------------**
+
+
+![alt text](https://github.com/janak11111/Sentence-Emotion-Analyzer-WebApp/blob/main/improved_promp2.jpg)
+
+
+![alt text](https://github.com/janak11111/Sentence-Emotion-Analyzer-WebApp/blob/main/improved_emo2.jpg)
