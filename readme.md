@@ -1,45 +1,36 @@
-
 ![alt text](https://github.com/janak11111/Sentence-Emotion-Analyzer-WebApp/blob/main/improved_promp2.jpg)
-
 
 ![alt text](https://github.com/janak11111/Sentence-Emotion-Analyzer-WebApp/blob/main/improved_emo2.jpg)
 
-**---------------------------------------------------------------------------------------------------------------------------------**
+---
 
+## Files Information
 
-**Files Information** 
+* **app.py**: Main Python file for starting the project on the server.
+* **templates/**: Folder containing HTML files for the project frontend.
+* **static/**: Folder containing images for the project frontend.
+* **saved\_model/**: Folder containing the trained BERT model for inference on new test examples.
+* **BERT\_model.ipynb**: Notebook containing the modeling part of the project using the BERT model.
+* **LSTM\_model.ipynb**: Notebook containing the modeling part of the project using the LSTM model.
+* **big\_dataset.csv**: Dataset file used during the project.
+* **report.pdf**: Project report.
+* **Saved model link**: [https://drive.google.com/drive/folders/1-1k-OvgqiJ6\_pGNlWFdKdemFdzHDF\_6T?usp=share\_link](https://drive.google.com/drive/folders/1-1k-OvgqiJ6_pGNlWFdKdemFdzHDF_6T?usp=share_link)
 
+---
 
-app.py - main python file for starting proect on server.
+## Steps to Run the Project
 
-templates - folder containing html files for project frontend
+1. **Start the server**
+   Run the `app.py` file to launch the project.
 
-static - folder containing images for project frontend
+2. **Open the web interface**
+   The project will load in your web browser. Click on **Try IT** in the navigation bar to test with custom input.
 
-saved_model - folder containing trained bert model for inference on new test example
+3. **Enter input**
+   Provide a single tweet as input and click the **Analyze** button.
 
-BERT_model.ipynb - file containing modeling part of project using BERT model
+4. **View results**
+   The model predicts the emotion and displays the original tweet with its predicted emotion on a new page.
 
-LSTM_model.ipynb - file containing modeling part of project using LSTM model
-
-big_dataset.csv - file contrain dataset which has been during project
-
-report.pdf - its file containing project report 
-
-saved model link - https://drive.google.com/drive/folders/1-1k-OvgqiJ6_pGNlWFdKdemFdzHDF_6T?usp=share_link
-
-
-**---------------------------------------------------------------------------------------------------------------------------------**
-
-**Steps to run the project**
-
-1) Run app.py file which starts the project.
-
-2) project will load  web browser. click on 'Try IT' part on navigation bas to test the project on user input.
-
-3) project expects one user tweet as input and after that click on Analyze button.
-
-4) model gives prediction of emotion on new page where we can see orignal tweet with its predicted emotion.
-
-5) user can try again with differnt input for detecting emotion.
-
+5. **Test again**
+   Enter a different input to detect another emotion.
